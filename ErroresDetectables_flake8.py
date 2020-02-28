@@ -1,12 +1,7 @@
-
-# Se deja una sola linea en blanco antes de definir una función
-# Se omite un espacio luego de la coma en los argumentos de la función
-# Y se agrega un espacio entre el nombre de la función y sus argumentos
-
-def operacion (A,B):
-
-# En ambas lineas se omiten espacios al rededos de los operadores
-    Suma=A+B
-    respuesta=Suma
-
+# se elimina el import inecesario
+# se elimina el espacio no usado entre comandos
+# se agrega un espacio depues de signos como comas o iguales y entre operadores
+def operacion(A, B):
+# se elimina una operación inecesaria (declarar la variable suma para luego asignarle su valor a respuesta)
+    respuesta= A + B
     return respuesta
