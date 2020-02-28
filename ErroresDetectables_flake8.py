@@ -1,5 +1,3 @@
-# Se importa una librería que no se utiliza en el programa
-import random
 
 # Se deja una sola linea en blanco antes de definir una función
 # Se omite un espacio luego de la coma en los argumentos de la función
